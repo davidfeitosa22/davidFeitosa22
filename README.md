@@ -3,6 +3,7 @@
 - 🔭 Hoje faço faculdade de S.I.
 - 🌱 Estudando Typescript
 - 😄 Pronouns: dle/dele
+- 
 Sou um desenvolvedor full-stack independente, construindo minha versão do mundo digital passo a passo. Todos os meus projetos de programação são desenvolvidos do zero, desde o planejamento e design até a resolução de problemas reais com código. 
 
   
